@@ -60,7 +60,7 @@ function logoutUser() {
   localStorage.removeItem("ascendUserAccount");
 
   // Redirect to home page
-  window.location.href = "home.html";
+  window.location.href = "index.html";
 }
 
 // Function for login page
@@ -103,7 +103,7 @@ function loginUser() {
       localStorage.setItem("ascendUserAccount", JSON.stringify(accounts[accountIndex]));
 
       // Redirect to home page
-      window.location.href = "home.html";
+      window.location.href = "index.html";
     } else {
       // If user password does not match account password
       loginStatus.innerText = "Password is incorrect!";
