@@ -2,6 +2,8 @@
 
 > A modern, responsive front-end website for a fictional bouldering gym, **Ascend**, developed as part of a Web Fundamentals assignment. The project showcases the use of HTML5, CSS3, and JavaScript to create an engaging, interactive user experience with smooth animations, intuitive navigation, and robust client-side functionality.
 
+Website Link: https://sliceforestcake.github.io/Ascend-Website/
+
 ---
 
 ## 📌 Features & Pages
